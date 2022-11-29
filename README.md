@@ -18,12 +18,14 @@
             <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
         </a>
     </div>
-</div> 
-
-# My Stats
-
+    <div>
+        <h2>My Stats</h2>
+        
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mfadlika&theme=neon-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlika&layout=compact&theme=vision-friendly-dark)](https://github.com/mfadlika/github-readme-stats)
-
-### "with great quality of sleep comes great quality of code" - unknown
+        <h3>
+            "with great quality of sleep comes great quality of code" - unknown
+        </h3>
+    </div>
+</div>
