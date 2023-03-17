@@ -23,9 +23,11 @@
         
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mfadlika&theme=neon-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlika&layout=compact&theme=vision-friendly-dark)](https://github.com/mfadlika/github-readme-stats)
-        <h3>
-            "with great quality of sleep comes great quality of code" - unknown
-        </h3>
-    </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlika&hide=css,makefile,html&layout=compact&theme=vision-friendly-dark)](https://github.com/mfadlika/github-readme-stats)
+
+<h3>
+"with great quality of sleep comes great quality of code" - unknown
+</h3>
+</div>
+
 </div>
