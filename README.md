@@ -2,10 +2,11 @@
 
 ## a junior web developer 👨‍💻
 
-- good understanding in React & Redux in front-end and Express in server-side
-- using MongoDB & Mongoose for database
-- now learning: Next with Typescript (also Flutter & Dart for mobile apps)
-- another language I'm familiar with: C & Python
+- good understanding in React & Next in front-end and Express & Django in server-side
+- using either SQL or NoSQL for database
+- now learning: Swift
+- languages I'm good at: Javascript, Typescript & Python
+- also familiar with: C & C++
 - a lifelong learner 👀
 
 <div align="center">
