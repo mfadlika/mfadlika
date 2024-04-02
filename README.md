@@ -1,7 +1,5 @@
 # fadlim here 🫡
 
-## a junior web developer 👨‍💻
-
 - good understanding in React & Next in front-end and Express & Django in server-side
 - using either SQL or NoSQL for database
 - now learning: Swift
@@ -12,9 +10,6 @@
 <div align="center">
     <h2>👇 want to collab? contact me here 👇</h2>
     <div id="badges">
-        <a href="https://linkedin.com/in/mfadlika">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
         <a href="mailto: mfadlika@outlook.com">
             <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
         </a>
