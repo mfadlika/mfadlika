@@ -16,8 +16,6 @@
     </div>
     <div>
         <h2>My Stats</h2>
-        
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mfadlika&theme=neon-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlika&hide=css,makefile,html,scss&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/mfadlika/github-readme-stats)
 
