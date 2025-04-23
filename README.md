@@ -1,10 +1,9 @@
 # fadlim here 🫡
 
-- good understanding in React & Next in front-end and Express & Django in server-side
-- using either SQL or NoSQL for database
-- now learning: Swift
-- languages I'm good at: Javascript, Typescript & Python
-- also familiar with: C & C++
+- good understanding of software development
+- tech stacks: React, React Native, Electron, Express, and many more
+- currently diving into Machine Learning and Artificial Intelligence
+- languages I'm good at: Javascript, Python, and C++
 - a lifelong learner 👀
 
 <div align="center">
