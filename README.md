@@ -16,7 +16,7 @@
     <div>
         <h2>My Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlika&hide=css,makefile,HTML,scss&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/mfadlika/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlika&langs_count=8&hide=css,makefile,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/mfadlika/github-readme-stats)
 
 <h3>
 "with great quality of sleep comes great quality of code" - unknown
