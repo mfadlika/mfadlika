@@ -4,7 +4,8 @@
 - tech stacks: React, React Native, Electron, Express, and many more
 - currently diving into Machine Learning and Artificial Intelligence
 - languages I'm good at: Javascript, Python, and C++
-- a lifelong learner (informatics and math undergrad) 👀
+- a lifelong learner (informatics and math undergrad)
+- I'm learning to make my machine 'learning' 👀
 
 <div align="center">
     <h2>👇 want to collab? contact me here 👇</h2>
